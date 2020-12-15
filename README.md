@@ -3,8 +3,8 @@ Projeto de desenvolvimento de jogo Web com WebRTC para a disciplina de Sistemas 
 
 # Equipes
 
-| Equipe | Entrega 1 |
-|-|-|
-| [mbauer90](https://github.com/mbauer90/SMU) | 8 |
-| [renaner123](https://github.com/renaner123/Sudoku_SMU) | 10 |
-| [AlissonBoeing](https://github.com/AlissonBoeing/smu-alisson) | 3 |
+| Equipe | Projeto | Entrega 1 |
+|-|-|-|
+| [mbauer90](https://github.com/mbauer90/SMU) | [Jogo WebRTC](https://github.com/mbauer90/SMU/projects/1) | 8 |
+| [renaner123](https://github.com/renaner123/Sudoku_SMU) | [Jogo WEBRTC](https://github.com/renaner123/Sudoku_SMU/projects/1) | 10 |
+| [AlissonBoeing](https://github.com/AlissonBoeing/smu-alisson) | [Smu 2020-2](https://github.com/AlissonBoeing/smu-alisson/projects/1) | 3 |
