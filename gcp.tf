@@ -24,6 +24,11 @@ resource "google_compute_firewall" "smu-0" {
     protocol = "tcp"
     ports    = ["22", "8089"]
   }
+
+  allow {
+    protocol = "udp"
+    ports    = ["10000-20000"]
+  }
 }
 
 # https://www.terraform.io/docs/providers/google/d/datasource_compute_address.html
