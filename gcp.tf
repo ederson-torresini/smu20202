@@ -27,7 +27,7 @@ resource "google_compute_firewall" "smu-0" {
 
   allow {
     protocol = "udp"
-    ports    = ["10000-20000"]
+    ports    = ["1024-65535"]
   }
 }
 
